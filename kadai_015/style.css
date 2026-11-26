@@ -1,0 +1,41 @@
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+
+html {
+  font-size: 20px;
+}
+
+/* 文字色 */
+.blue {
+  color: skyblue;
+}
+
+.pink {
+  color: rgb(255, 192, 203);
+}
+
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+
+/* h1の装飾 */
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+/* h1の装飾 */
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+}
+/* 子孫セレクタ */
+#basic p {
+  font-weight: bold;
+}
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+  border-bottom: 1px solid gray;
+}
