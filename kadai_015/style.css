@@ -37,5 +37,6 @@ h1 {
 h1 {
   font-family: "Josefin Sans", sans-serif;
   font-size: 2rem;
-  border-bottom: 1px solid gray;
+  border-bottom: 3px solid gray;
+  text-shadow: 2px 2px 3px gray;
 }
